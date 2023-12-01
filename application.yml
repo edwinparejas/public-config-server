@@ -1,0 +1,6 @@
+RabbitMq:
+  HostName: hostname
+  Port: "5672"
+  VirtualHost: /host
+  UserName: user
+  Password: password
