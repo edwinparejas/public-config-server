@@ -1,1 +1,1 @@
-# config-server
+# public-config-server
